@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  waps-construction:
+  - apiVersion: v2
+    appVersion: 5.9.3
+    created: "2022-04-24T05:03:32.043371977+01:00"
+    description: A wordpress Site displaying the buiness activities of Afunimawobe
+      POTUS construction company
+    digest: e2b3ddc79064acbc476e7b6ba2d87befa3442c501f41da352a000ad822540340
+    name: waps-construction
+    type: application
+    urls:
+    - https://thedon1500.github.io/waps-construction/waps-construction-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-24T05:03:32.042302208+01:00"
